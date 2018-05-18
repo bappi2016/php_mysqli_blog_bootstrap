@@ -1,0 +1,18 @@
+[07-May-2018 06:10:11 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\CMS\include\Session.php on line 3
+[07-May-2018 06:10:11 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\CMS\include\Session.php on line 3
+[07-May-2018 06:10:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\CMS\Index.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projects\CMS\Index.php on line 91
+[07-May-2018 06:10:30 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\CMS\include\Session.php on line 3
+[07-May-2018 06:10:30 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\CMS\include\Session.php on line 3
+[07-May-2018 06:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\CMS\Index.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projects\CMS\Index.php on line 91
+[07-May-2018 06:57:20 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\CMS\include\Session.php on line 3
+[07-May-2018 06:57:20 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\CMS\include\Session.php on line 3
+[07-May-2018 06:57:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\CMS\Index.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projects\CMS\Index.php on line 91

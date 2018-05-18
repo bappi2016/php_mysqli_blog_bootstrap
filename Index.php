@@ -262,7 +262,7 @@
 
 				<?php 
 				$Connection = mysqli_connect("localhost","root","","phpcms");
-				$ViewQuery = "SELECT * FROM admin_panel ORDER BY datetime id LIMIT 0,5";
+				$ViewQuery = "SELECT * FROM admin_panel ORDER BY id desc LIMIT 0,5";
 				$Execute = mysqli_query($Connection,$ViewQuery);
 				while ($FetchDataArray=mysqli_fetch_array($Execute)) {
 			 	$Id = $FetchDataArray['id'];
